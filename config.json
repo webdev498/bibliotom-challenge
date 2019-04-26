@@ -1,0 +1,6 @@
+{
+	"connectionString": "mongodb://localhost:27017/bibliotech_db",
+	"env": {
+		"JWT_SECRET": "U0E9F0UEF-9IG=0IRG9J0IH40WPOF"
+	}
+}
